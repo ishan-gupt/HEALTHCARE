@@ -24,6 +24,6 @@ Obtaining a user's entire medical history across multiple health providers is a 
 
 - [Ritesh Puvvada](https://github.com/RiteshPuvvada)
 
-## Screenshots :
+## Screenshot :
 
 
