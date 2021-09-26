@@ -12,6 +12,7 @@ public class DoctorDetails extends AppCompatActivity {
     EditText docDelEdittext;
     TextView DocDelNametextView,DocDelAddetextView,DocDelSpectextView,DocDelNumtextView;
     Button DocDelButton;
+    String url="http://192.168.68.1/health/doctor.php";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,6 +26,7 @@ public class DoctorDetails extends AppCompatActivity {
         DocDelSpectextView = (TextView) findViewById(R.id.DocDelSpectextView);
         DocDelNumtextView = (TextView) findViewById(R.id.DocDelNumtextView);
         DocDelButton = (Button) findViewById(R.id.DocDelButton);
+
 
     }
 }
