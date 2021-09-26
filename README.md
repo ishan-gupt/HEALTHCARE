@@ -11,7 +11,7 @@ Suppose If u met with an accident and are taken to a Hospital  the doctor asks u
 Also sometimes hospitals dont share the patient history with other hospitals, which can cause probles as the hospital has to make all the entries again so that can also be solved using this app.
 
 ## Note :
-We were working on creating a decentralized application for the same, As that application was taking more than 2days to build completely, we are keeping it as a sidework for us till then we are hosting the data on phyMyAdmin. For making the app decentralized we would be using smartcontracts written in Solidity  for the data and ipfs to store the data and etherium for storing the hashes. You can find thar
+We were working on creating a decentralized application for the same, As that application was taking more than 2days to build completely, we are keeping it as a sidework for us till then we are hosting the data on phyMyAdmin. For making the app decentralized we would be using smartcontracts written in Solidity  for the data and ipfs to store the data and etherium for storing the hashes. You can find that project on
 
 ## Technology Stack :
 
