@@ -31,5 +31,23 @@ We were working on creating a decentralized application for the same, As that ap
 
 - [Ritesh Puvvada](https://github.com/RiteshPuvvada)
 
-## ScreenShot :
+## Screenshots :
+
+<div>
+<img src="app/src/main/res/drawable/home.png" alt="home" width=200 style="display:inline-block">
+<img src="app/src/main/res/drawable/homereg.png" alt="home" width=205 style="display:inline-block;margin-left:20px">
+<img src="app/src/main/res/drawable/homedet.png" alt="home" width=203 style="display:inline-block;margin-left:20px">
+<br><br><br>
+<img src="app/src/main/res/drawable/hosreg.png" alt="home" width=200 style="display:inline-block">
+<img src="app/src/main/res/drawable/patreg.png" alt="home" width=198 style="display:inline-block;margin-left:20px">
+<img src="app/src/main/res/drawable/docreg.png" alt="home" width=200 style="display:inline-block;margin-left:20px">
+<br><br><br>
+<img src="app/src/main/res/drawable/hosdet.png" alt="home" width=200 style="display:inline-block">
+<img src="app/src/main/res/drawable/patdet.png" alt="home" width=198 style="display:inline-block;margin-left:20px">
+<img src="app/src/main/res/drawable/docdet.png" alt="home" width=200 style="display:inline-block;margin-left:20px">
+<br><br><br>
+<img src="app/src/main/res/drawable/patmedreg.png" alt="home" width=200 style="display:inline-block">
+<img src="app/src/main/res/drawable/patmeddet.png" alt="home" width=200 style="display:inline-block;margin-left:20px">
+</div>
+
 
