@@ -18,7 +18,14 @@ Obtaining a user's entire medical history across multiple health providers is a 
 
 - Xampp
 
+
+## Team Members :
+- [Alan Alex](https://github.com/alan2000alex)
+
+- [Ishan Gupta](https://github.com/ishan-gupt)
+
+- [Ritesh Puvvada](https://github.com/RiteshPuvvada)
+
 ## Screenshots :
-<hr>
 
 
