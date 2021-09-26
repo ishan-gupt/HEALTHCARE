@@ -17,6 +17,7 @@ public class medicalRecordsDetails extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        getSupportActionBar().hide();
         setContentView(R.layout.activity_medical_records_details);
 
         MRDDatetextView = (TextView) findViewById(R.id.MRDDatetextView);

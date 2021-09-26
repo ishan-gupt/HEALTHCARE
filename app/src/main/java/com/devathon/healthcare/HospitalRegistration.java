@@ -15,6 +15,7 @@ public class HospitalRegistration extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        getSupportActionBar().hide();
         setContentView(R.layout.activity_hospital_registration);
 
         hosIDEditText = (EditText) findViewById(R.id.hosIDEditText);

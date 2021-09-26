@@ -2,7 +2,9 @@ package com.devathon.healthcare;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
@@ -16,6 +18,7 @@ public class DoctorRegistration extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        getSupportActionBar().hide();
         setContentView(R.layout.activity_doctor_registration);
 
         docIDEditText = (EditText) findViewById(R.id.docIDEditText);
@@ -25,6 +28,12 @@ public class DoctorRegistration extends AppCompatActivity {
         docSpecEditText = (EditText) findViewById(R.id.docSpecEditText);
         Doctorbutton = (Button) findViewById(R.id.Doctorbutton);
         DocClickHere = (TextView) findViewById(R.id.DocClickHere);
+        DocClickHere.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getApplicationContext(),PatientDetails.class));
+            }
+        });
 
     }
 }

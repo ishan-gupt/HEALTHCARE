@@ -17,6 +17,7 @@ public class PatientDetails extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        getSupportActionBar().hide();
         setContentView(R.layout.activity_patient_details);
 
         patDelIDeditText = (EditText) findViewById(R.id.patDelIDeditText);
