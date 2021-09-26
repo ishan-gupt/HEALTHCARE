@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Decentralized Healthcare ⚕️</h1>
+<h1>Healthcare ⚕️</h1>
 
 </div>
 
