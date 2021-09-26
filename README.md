@@ -5,12 +5,10 @@
 </div>
 
 ## Objective :
-<hr>
 
 Obtaining a user's entire medical history across multiple health providers is a challenge. We want to present an easier way to store a user's entire medical history.
 
 ## Technology Stack :
-<hr>
 
 - Android Studio
 
