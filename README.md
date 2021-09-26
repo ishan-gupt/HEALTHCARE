@@ -11,7 +11,7 @@ Suppose If u met with an accident and are taken to a Hospital  the doctor asks u
 Also sometimes hospitals dont share the patient history with other hospitals, which can cause probles as the hospital has to make all the entries again so that can also be solved using this app.
 
 ## Note :
-We were working on creating a decentralized application for the same, As that application was taking more than 2days to build completely, we are keeping it as a sidework for us till then we are hosting the data on phyMyAdmin. For making the app decentralized we would be using smartcontracts written in Solidity  for the data and ipfs to store the data and etherium for storing the hashes. You can find thar
+We were working on creating a decentralized application for the same, As that application was taking more than 2days to build completely, we are keeping it as a sidework for us till then we are hosting the data on phyMyAdmin. For making the app decentralized we would be using smartcontracts written in Solidity  for the data and ipfs to store the data and etherium for storing the hashes. You can find that project on
 
 ## Technology Stack :
 
@@ -31,5 +31,23 @@ We were working on creating a decentralized application for the same, As that ap
 
 - [Ritesh Puvvada](https://github.com/RiteshPuvvada)
 
-## ScreenShot :
+## Screenshots :
+
+<div>
+<img src="app/src/main/res/drawable/home.png" alt="home" width=200 style="display:inline-block">
+<img src="app/src/main/res/drawable/homereg.png" alt="home" width=205 style="display:inline-block;margin-left:20px">
+<img src="app/src/main/res/drawable/homedet.png" alt="home" width=203 style="display:inline-block;margin-left:20px">
+<br><br><br>
+<img src="app/src/main/res/drawable/hosReg.png" alt="home" width=200 style="display:inline-block">
+<img src="app/src/main/res/drawable/patReg.png" alt="home" width=198 style="display:inline-block;margin-left:20px">
+<img src="app/src/main/res/drawable/docReg.png" alt="home" width=200 style="display:inline-block;margin-left:20px">
+<br><br><br>
+<img src="app/src/main/res/drawable/hosDet.png" alt="home" width=200 style="display:inline-block">
+<img src="app/src/main/res/drawable/patDet.png" alt="home" width=198 style="display:inline-block;margin-left:20px">
+<img src="app/src/main/res/drawable/docDet.png" alt="home" width=200 style="display:inline-block;margin-left:20px">
+<br><br><br>
+<img src="app/src/main/res/drawable/patMedReg.png" alt="home" width=200 style="display:inline-block">
+<img src="app/src/main/res/drawable/patMedDet.png" alt="home" width=200 style="display:inline-block;margin-left:20px">
+</div>
+
 
